@@ -2,17 +2,19 @@ API Call
 =================
 1) Get Clone by typing the command
 
-git clone https://github.com/aamod1990/intellect.git
+   git clone https://github.com/aamod1990/intellect.git
 
-2)cd intellect
+2) cd intellect
 
 3) Install All Dependency
 
 4) Run API By Typeing Command
-node api.js
+
+    node api.js
 
 5) Call API By Type Command
-node APIRequest.js
+
+    node APIRequest.js
 
 Note:-
 ======
